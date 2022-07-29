@@ -36,7 +36,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" title="Redis" alt="Redis" width="50" height="50"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" title="Python" alt="Python" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" title="Vim" alt="Vim" width="50" height="50"/>
     </div>
 </div>
 
