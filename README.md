@@ -20,9 +20,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="Github" alt="Github" width="50" height="50"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-plain.svg" title="Ansible" alt="Ansible" width="50" height="50"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="50" height="50"/>
-        <img src="https://raw.githubusercontent.com/traefik/traefik/master/docs/content/assets/img/traefikproxy-icon-color.png" title="Traefik" alt="Traefik" width="50" height="50"/>
+        <img src="https://camo.githubusercontent.com/deb558f6629474a8f95abfb9e875b127517b3ebcfbc20068d20b7918901fe721/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616e7369626c652f616e7369626c652d69636f6e2e737667" title="Ansible" alt="Ansible" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" title="Nginx" alt="Nginx" width="50" height="50"/>
+        <img src="https://camo.githubusercontent.com/f5caed59db154a98b1b3d27e0c7d27f417944b035685d4c9cc67b99af65cbb55/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7472616566696b696f2f7472616566696b696f2d69636f6e2e737667" title="Traefik" alt="Traefik" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
