@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/lRkGgX1WhWbk8zKXQE/giphy.gif" width="200" height="100"/>
 </div>
 <div id="about" align="center">
-    <p>Hi. I'm <b><a href="https://github.com/murtll">@murtll</a></b> and currently I'm working in <b><a href="https://main.liis.su">LIIS</a></b> as Junior DevOps Engineer.</p>
+    <p>Hi. I'm <b><a href="https://github.com/murtll">@murtll</a></b> and currently I'm working in <b><a href="https://onetwotrip.com">OneTwoTrip</a></b> as Junior DevOps Engineer.</p>
     <p>However, I am also interested in many other IT areas.</p>
 </div>
 
