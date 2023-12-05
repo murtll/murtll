@@ -11,7 +11,7 @@
 
 #
 <div align="center">
-    <b>My skills</b>
+    <b>Worked with</b>
     <br>
     <br>
     <div>
@@ -42,20 +42,10 @@
 
 #
 <div align="center">
-    <b>My Github Stats</b>
+    <b>Github stats</b>
     <br>
     <br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=murtll&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtll&layout=compact&hide_border=true&theme=github_dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murtll&show_icons=true&count_private=true&ayout=compact&hide_border=true&theme=github_dark)
-
 </div>
-
-
