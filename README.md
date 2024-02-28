@@ -17,6 +17,9 @@
     <div>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/raw/master/icons/helm/helm-original.svg" title="Helm" alt="Helm" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/raw/master/icons/argocd/argocd-original.svg" title="ArgoCD" alt="ArgoCD" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/raw/master/icons/vault/vault-original.svg" title="Vault" alt="Vault" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
