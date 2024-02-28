@@ -24,6 +24,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="Github" alt="Github" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/raw/master/icons/jenkins/jenkins-original.svg" title="Jdenkins" alt="Jenkins" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/raw/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="50" height="50"/>
