@@ -1,13 +1,15 @@
-<div id="header-img-1" align="center">
-  <img src="https://media.giphy.com/media/eNpP80U2AJKDn1UDhP/giphy.gif" width="200"/>
+<div align="left">
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDh0NmM0ZnlhZjhvZW1oa2djM3pyM3FreHp4dnY0cXhzczkwdWE5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fr9wWxqvIGGcuLO8PJ/source.gif" width="200"/>
 </div>
-<div id="header-img-2" align="center">
-  <img src="https://media.giphy.com/media/lRkGgX1WhWbk8zKXQE/giphy.gif" width="200" height="100"/>
-</div>
-<div id="about" align="center">
+<br>
+<br>
+<br>
+<br>
+<div id="about">
     <p>Hi. I'm <b><a href="https://github.com/murtll">@murtll</a></b> and currently I'm working @ <b><a href="https://www.solartrip.com">Solartrip</a></b> as DevOps Engineer.</p>
     <p>However, I am also interested in many other IT areas.</p>
 </div>
+<br>
 
 #
 <div align="center">
