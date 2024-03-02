@@ -37,6 +37,7 @@
         <img src="https://github.com/devicons/devicon/raw/master/icons/traefikproxy/traefikproxy-original.svg" title="Traefik" alt="Traefik" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/raw/master/icons/elasticsearch/elasticsearch-original.svg" title="ELK" alt="ELK" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" title="Redis" alt="Redis" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="50" height="50"/>
