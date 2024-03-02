@@ -10,6 +10,7 @@
     <p>However, I am also interested in many other IT areas.</p>
 </div>
 <br>
+<br>
 
 <div align="center">
     <b>Worked with</b>
