@@ -11,12 +11,14 @@
 </div>
 <br>
 
-#
 <div align="center">
     <b>Worked with</b>
     <br>
     <br>
-    <div>
+    <table border="0px">
+    <tr>
+    <td>
+    <div width="300">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/raw/master/icons/helm/helm-original.svg" title="Helm" alt="Helm" width="50" height="50"/>
@@ -44,14 +46,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
     </div>
-</div>
-
-#
-<div align="center">
-    <b>Github stats</b>
-    <br>
-    <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtll&layout=compact&hide_border=true&theme=github_dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
+    </td>
+    <td>
+    <div>
+        <img height="200" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtll&layout=compact&hide_border=true&theme=github_dark&hide=html" />
+    </div>
+    </td>
+    </tr>
+    </table>
 </div>
